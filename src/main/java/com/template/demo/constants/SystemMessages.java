@@ -8,4 +8,5 @@ public class SystemMessages {
     public static final String CLIENT_ALREADY_EXISTS = "Client already exists";
     public static final String CLIENT_CREATED_SUCCESSFULLY = "Client created successfully!";
     public static final String MALFORMED_REQUEST_BODY = "Request body is missing or malformed";
+    public static final String CLIENT_NOT_FOUND = "Client not found";
 }
